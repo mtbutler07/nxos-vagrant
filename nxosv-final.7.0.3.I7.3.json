@@ -1,0 +1,15 @@
+{
+    "name": "cisco/n9kv",
+    "description": "Cisco Nexus9kv",
+    "versions": [
+      {
+        "version": "7.0.3.I7.3",
+        "providers": [
+          {
+            "name": "virtualbox",
+            "url": "file:////Users/Marcus/Downloads/N9K/nxosv-final.7.0.3.I7.3.box"
+          }
+        ]
+      }
+    ]
+  }
